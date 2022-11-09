@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "782486475409",
+    "firebase_url": "https://mesajlasma-36f83-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mesajlasma-36f83",
+    "storage_bucket": "mesajlasma-36f83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782486475409:android:e05160085931e4d1b9e530",
+        "android_client_info": {
+          "package_name": "com.example.gevezechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782486475409-9j5to214voe6pkj541jgnmnt1a7t99uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd2lNYITxCZJu84DpG3gwoY6d30ABz6qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782486475409-9j5to214voe6pkj541jgnmnt1a7t99uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
